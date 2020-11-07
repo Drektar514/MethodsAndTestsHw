@@ -1,0 +1,9 @@
+C:\Users\Сергей\source\repos\MethodsTestsHW\MethodsHw\bin\Debug\netcoreapp3.1\MethodsHw.deps.json
+C:\Users\Сергей\source\repos\MethodsTestsHW\MethodsHw\bin\Debug\netcoreapp3.1\MethodsHw.dll
+C:\Users\Сергей\source\repos\MethodsTestsHW\MethodsHw\bin\Debug\netcoreapp3.1\MethodsHw.pdb
+C:\Users\Сергей\source\repos\MethodsTestsHW\MethodsHw\obj\Debug\netcoreapp3.1\MethodsHw.csprojAssemblyReference.cache
+C:\Users\Сергей\source\repos\MethodsTestsHW\MethodsHw\obj\Debug\netcoreapp3.1\MethodsHw.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\MethodsTestsHW\MethodsHw\obj\Debug\netcoreapp3.1\MethodsHw.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\MethodsTestsHW\MethodsHw\obj\Debug\netcoreapp3.1\MethodsHw.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\MethodsTestsHW\MethodsHw\obj\Debug\netcoreapp3.1\MethodsHw.dll
+C:\Users\Сергей\source\repos\MethodsTestsHW\MethodsHw\obj\Debug\netcoreapp3.1\MethodsHw.pdb
